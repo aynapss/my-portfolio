@@ -1,7 +1,5 @@
 # 🚀 Anthony Napoli - Cybersecurity & Data Analyst Portfolio
 
-![Header Image](https://via.placeholder.com/1000x300.png?text=Anthony+Napoli+-+Cybersecurity+%26+Data+Analyst+Portfolio)
-
 **🌐 Welcome!** I’m **Anthony Napoli**, a passionate cybersecurity specialist and data analyst focused on building secure systems and optimizing data workflows. My expertise lies in designing secure architectures, implementing Zero Trust models, and using cutting-edge tools to detect threats and automate responses.
 
 ---
