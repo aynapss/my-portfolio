@@ -1,47 +1,68 @@
-# Anthony Napoli - Cybersecurity & Data Analyst Portfolio
+# 🚀 Anthony Napoli - Cybersecurity & Data Analyst Portfolio
 
-![Header Image](https://via.placeholder.com/800x200.png?text=Anthony+Napoli+-+Cybersecurity+%26+Data+Analyst+Portfolio)
+![Header Image](https://via.placeholder.com/1000x300.png?text=Anthony+Napoli+-+Cybersecurity+%26+Data+Analyst+Portfolio)
 
-👋 Welcome! I'm **Anthony Napoli**, a cybersecurity specialist and data analyst focused on secure architecture, Zero Trust frameworks, and threat detection. I thrive in driving cross-functional solutions that protect critical assets and ensure compliance with industry standards.
-
----
-
-## 🔍 About Me
-
-I am passionate about strengthening security postures and automating incident responses to minimize risks and improve efficiency. I specialize in tools like Microsoft Sentinel, Risk Recon, and AWS IAM, and have hands-on experience with compliance standards such as ISO and NIST.
+**🌐 Welcome!** I’m **Anthony Napoli**, a passionate cybersecurity specialist and data analyst focused on building secure systems and optimizing data workflows. My expertise lies in designing secure architectures, implementing Zero Trust models, and using cutting-edge tools to detect threats and automate responses.
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 About Me
 
-### 1. **SIEM Operations with Microsoft Sentinel**
-- **Description**: Configured Microsoft Sentinel workspaces for end-to-end security monitoring, developed analytics rules for automated incident responses, and managed secure access with Azure RBAC.
-- **Skills Used**: Microsoft Sentinel, KQL, Azure RBAC, Automation
-- **Certification**: [View Certificate](#) <!-- Add a link to your certificate if available -->
+As a cybersecurity and data expert, I combine my analytical skills with a strong understanding of secure design principles to deliver solutions that protect critical assets and improve efficiency. My work emphasizes compliance, automation, and precision, aligning with standards like **ISO** and **NIST**.
+
+💼 **Open to:** Cybersecurity roles, Data Analyst positions, consulting projects, and collaborative opportunities.
+
+---
+
+## 📂 Featured Projects
+
+### 🔒 **1. SIEM Operations with Microsoft Sentinel**
+- **Role**: Configured a comprehensive security information and event management (SIEM) solution using Microsoft Sentinel.
+- **Highlights**:
+  - Developed analytics rules for automated incident responses.
+  - Configured access control with Azure RBAC.
+- **Skills Used**: Microsoft Sentinel, KQL, Azure RBAC, Security Automation
+- **Certification**: [Microsoft Issued](#) <!-- Add a link to your certificate if available -->
 - ![SOC Dashboard](https://via.placeholder.com/400x200.png?text=SOC+Dashboard+Example)
 
-### 2. **Cloud Security with Microsoft 365 Threat Protection**
-- **Description**: Configured Microsoft Defender and Azure Defender to streamline cloud threat responses and secure cloud environments.
-- **Skills Used**: Microsoft Defender, Azure Security Center, Threat Detection
-- **Certification**: [View Certificate](#)
+---
 
-### 3. **Network Security Analysis with Wireshark**
-- **Description**: Analyzed network traffic and identified vulnerabilities in DNS and HTTP using Wireshark.
-- **Skills Used**: Wireshark, Network Analysis, Vulnerability Detection
-- **Certification**: [View Certificate](#)
+### ☁️ **2. Cloud Security Operations with Microsoft 365 Threat Protection**
+- **Role**: Enhanced cloud security by configuring Microsoft Defender for cloud threat detection and response.
+- **Highlights**:
+  - Streamlined threat detection across Microsoft 365 and Azure environments.
+  - Ensured cloud security compliance with NIST guidelines.
+- **Skills Used**: Microsoft Defender, Azure Security Center, Cloud Threat Protection
+- **Certification**: [Microsoft Issued](#)
+- ![Cloud Security Screenshot](https://via.placeholder.com/400x200.png?text=Cloud+Security+Example)
 
 ---
 
-## 🛠️ Technical Skills
+### 🌐 **3. Network Security Analysis with Wireshark**
+- **Role**: Conducted network security analysis to identify vulnerabilities in DNS and HTTP.
+- **Highlights**:
+  - Used Wireshark to monitor network traffic and locate potential vulnerabilities.
+  - Improved network visibility and response through detailed traffic analysis.
+- **Skills Used**: Wireshark, Network Analysis, Vulnerability Detection
+- **Certification**: [Coursera](#)
+- ![Network Analysis Screenshot](https://via.placeholder.com/400x200.png?text=Network+Analysis+Example)
 
-- **Cybersecurity Architecture & Design**: Microsoft Defender for Endpoint, Cisco SecureX, Zero Trust Implementation
-- **Threat Detection & Incident Response**: Microsoft Sentinel, Splunk, Nessus
-- **Cloud Security & IAM**: Microsoft Azure Security Center, AWS IAM, Azure AD
-- **Automation & Data Analysis**: Microsoft Power Automate, Power BI, KQL, Tableau
+---
+
+## 🛠️ Core Skills
+
+| Category                         | Tools & Technologies                                             |
+|----------------------------------|------------------------------------------------------------------|
+| **Cybersecurity Architecture**   | Microsoft Defender, Cisco SecureX, Zero Trust Implementation     |
+| **Threat Detection & Response**  | Microsoft Sentinel, Splunk, Nessus                               |
+| **Cloud Security & IAM**         | Microsoft Azure Security Center, AWS IAM, Azure AD              |
+| **Automation & Data Analysis**   | Microsoft Power Automate, Power BI, KQL, Tableau                |
 
 ---
 
 ## 📜 Certifications
+
+🎓 **Certifications that demonstrate my commitment to security and data analysis excellence:**
 
 - **CompTIA Security+** – *Earned: April 2024*
 - **Microsoft Certified: Security Operations Analyst** – *Expected: November 2024*
@@ -51,9 +72,11 @@ I am passionate about strengthening security postures and automating incident re
 
 ## 📫 Contact Me
 
+**Let’s connect!** I’m available for networking, collaboration, or discussing potential roles.
+
 - **Email**: [anapoli7543@gmail.com](mailto:anapoli7543@gmail.com)
 - **LinkedIn**: [linkedin.com/in/anthony-napoli](http://linkedin.com/in/anthony-napoli)
 
 ---
 
-Feel free to explore my portfolio and reach out for collaboration, networking, or opportunities in cybersecurity and data analysis!
+Thank you for visiting my portfolio! I look forward to potential opportunities to secure and analyze data that drives business success.
