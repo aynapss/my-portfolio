@@ -22,30 +22,17 @@ As a cybersecurity and data expert, I combine my analytical skills with a strong
   - Developed analytics rules for automated incident responses.
   - Configured access control with Azure RBAC.
 - **Skills Used**: Microsoft Sentinel, KQL, Azure RBAC, Security Automation
-- **Certification**: [Microsoft Issued](#) <!-- Add a link to your certificate if available -->
-- ![SOC Dashboard](https://via.placeholder.com/400x200.png?text=SOC+Dashboard+Example)
+- **Certification**: [Microsoft Issued](https://learn.microsoft.com/api/credentials/share/en-us/AnthonyNapoli-3955/F7BAC1D8DEF1C2C7?sharingId=B9C152BE2B0BF0E1)
 
 ---
 
-### ☁️ **2. Cloud Security Operations with Microsoft 365 Threat Protection**
-- **Role**: Enhanced cloud security by configuring Microsoft Defender for cloud threat detection and response.
-- **Highlights**:
-  - Streamlined threat detection across Microsoft 365 and Azure environments.
-  - Ensured cloud security compliance with NIST guidelines.
-- **Skills Used**: Microsoft Defender, Azure Security Center, Cloud Threat Protection
-- **Certification**: [Microsoft Issued](#)
-- ![Cloud Security Screenshot](https://via.placeholder.com/400x200.png?text=Cloud+Security+Example)
-
----
-
-### 🌐 **3. Network Security Analysis with Wireshark**
+### 🌐 **2. Network Security Analysis with Wireshark**
 - **Role**: Conducted network security analysis to identify vulnerabilities in DNS and HTTP.
 - **Highlights**:
   - Used Wireshark to monitor network traffic and locate potential vulnerabilities.
   - Improved network visibility and response through detailed traffic analysis.
 - **Skills Used**: Wireshark, Network Analysis, Vulnerability Detection
-- **Certification**: [Coursera](#)
-- ![Network Analysis Screenshot](https://via.placeholder.com/400x200.png?text=Network+Analysis+Example)
+- **Certification**: [Coursera](https://coursera.org/verify/WJHK5XVFZARY)
 
 ---
 
